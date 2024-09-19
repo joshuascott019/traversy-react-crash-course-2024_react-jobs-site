@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7",
+      "title": "Monica's Husband",
+      "type": "Full-Time",
+      "location": "Brazil",
+      "description": "To love and pamper Monica for the remainder of days.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Fofa Codorna",
+        "description": "The cutest of all quails",
+        "contactEmail": "codorna@fofa.linda",
+        "contactPhone": "123-456-7890"
+      }
     }
   ]
 }
